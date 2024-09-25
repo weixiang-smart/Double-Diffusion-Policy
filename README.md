@@ -3,8 +3,9 @@ Official repository for paper "Double Diffusion Policy for Robust Robot Learning
 
 ## Video of real-world experiments
 
-### Human action data collection & modelling
+### Human action data collection
 
+### Human action data modelling
 
 ### Robot task performance
 1. Pack
