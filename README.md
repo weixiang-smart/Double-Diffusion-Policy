@@ -7,7 +7,7 @@ Official repository for paper "Double Diffusion Policy for Robust Robot Learning
 
 https://github.com/user-attachments/assets/2b62fca7-2675-42d3-968c-c68d3454fe67
 
-### Human action data modelling
+### Human action data modelling (human action diffusion policy)
 
 ### Robot task performance
 1. Pack
