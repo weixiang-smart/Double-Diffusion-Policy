@@ -2,6 +2,11 @@
 Official repository for paper "Double Diffusion Policy for Robust Robot Learning via Human Guidance". The full code will be available soon.
 
 ## Video of real-world experiments
+
+### Human action data collection & modelling
+
+
+### Robot tasks performance
 1. Pack
 
    https://github.com/user-attachments/assets/f04e883c-3efe-462f-b2f0-01539f29675d
