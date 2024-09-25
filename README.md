@@ -1,5 +1,5 @@
 # Double-Diffusion-Policy
-Official repository for paper "Double Diffusion Policy for Robust Robot Learning via Human Guidance".
+Official repository for paper "Double Diffusion Policy for Robust Robot Learning via Human Guidance". The full code will be available soon.
 
 ## Video of real-world experiments
 1. Pack
