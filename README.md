@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/2b62fca7-2675-42d3-968c-c68d3454fe67
 
 ### Human action data modelling (human action diffusion policy)
 
-https://github.com/user-attachments/assets/88de3e02-d531-4c13-b148-c4193b53d183
+https://github.com/user-attachments/assets/19c549e8-b798-444a-b0f3-8223f9863570
 
 ### Robot task performance
 1. Pack
