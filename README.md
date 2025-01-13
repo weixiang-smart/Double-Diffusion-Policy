@@ -36,3 +36,7 @@ https://github.com/user-attachments/assets/19c549e8-b798-444a-b0f3-8223f9863570
 6. Sensor
 
    https://github.com/user-attachments/assets/120fcf7b-7fd5-4675-87b9-be807caf869e
+   
+## Reference
+- [Diffusion policy]([https://github.com/openai/baselines](https://github.com/real-stanford/diffusion_policy))
+
