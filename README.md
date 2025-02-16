@@ -39,4 +39,5 @@ https://github.com/user-attachments/assets/19c549e8-b798-444a-b0f3-8223f9863570
    
 ## Reference
 - [Diffusion policy](https://github.com/real-stanford/diffusion_policy)
+- [QueST](https://github.com/pairlab/QueST)
 
