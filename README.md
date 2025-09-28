@@ -1,5 +1,5 @@
 # Double-Diffusion-Policy
-Official repository for paper "Double Diffusion Policy for Robust Robot Learning via Human Guidance". We will update the Readme file and upload the pretrained models of multi-task learning soon. https://sites.google.com/view/smart-ddp-appendix/
+Official repository for paper "Double Diffusion Policy for Robust Robot Learning via Human Guidance". We will update the Readme file and upload the pretrained models of multi-task learning soon. For appendix materials, please see https://sites.google.com/view/smart-ddp-appendix/.
 
 ## Video of real-world experiments
 
